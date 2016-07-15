@@ -57,9 +57,7 @@ method: GET
              "nownum": "0",
              "count": "5"
          },
-         .
-
-...
+         ...
      ],
      "info": "",
      "status": 105
