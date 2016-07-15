@@ -3,13 +3,13 @@ API Index
 
 * Wap
     * Wap\Controller
-        * [AccountController](Wap-Controller-AccountController.md)
+        * [MicroCertificateController](Wap-Controller-MicroCertificateController.md)
         * [ClassController](Wap-Controller-ClassController.md)
-        * [DictionaryController](Wap-Controller-DictionaryController.md)
-        * [IndexController](Wap-Controller-IndexController.md)
+        * [TrainingController](Wap-Controller-TrainingController.md)
         * [LiveController](Wap-Controller-LiveController.md)
         * [MenuController](Wap-Controller-MenuController.md)
-        * [MicroCertificateController](Wap-Controller-MicroCertificateController.md)
         * [RecordController](Wap-Controller-RecordController.md)
-        * [TrainingController](Wap-Controller-TrainingController.md)
+        * [AccountController](Wap-Controller-AccountController.md)
+        * [DictionaryController](Wap-Controller-DictionaryController.md)
+        * [IndexController](Wap-Controller-IndexController.md)
 
