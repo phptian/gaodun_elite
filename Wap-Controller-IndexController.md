@@ -25,6 +25,7 @@ Methods
     mixed Wap\Controller\IndexController::index()
 
 ### 首页
+GET /Wap/Index/
   ```
      {
          //已经解锁的数据

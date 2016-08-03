@@ -27,7 +27,7 @@ Methods
 ###获取课程列表页面
 请求
 ```
- Method:GET
+ Method:GET /Wap/Class/getlession/
  [
     'cid'=>123; //课程id
  ]
@@ -44,7 +44,9 @@ Methods
          "86560":"86560",
          "86561":"86561",
          "86562":"8656",
-             ...
+             .
+
+...
      },
      "detail":{
          ....//课程详情
