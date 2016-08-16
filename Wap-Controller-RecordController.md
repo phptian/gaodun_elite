@@ -25,7 +25,8 @@ Methods
     mixed Wap\Controller\RecordController::index()
 
 学习记录
-GET /Wap/Record/index
+Method:GET 
+/wap/Record
 ```
 {
   "status": 0,
