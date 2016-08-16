@@ -97,7 +97,26 @@
                     "period_end":" 2016-09 ",
                     "type":"2"
                 }
-            ]
+            ],
+            //技能水平
+            "skill": [
+			      {
+			        "display_name": "数据检索实操",
+			        "is_illume": 100
+			      },
+			      {
+			        "display_name": "Wind数据库使用实训",
+			        "is_illume": 100
+			      },
+			      {
+			        "display_name": "金融数量分析workshop",
+			        "is_illume": 100
+			      },
+			      {
+			        "display_name": "行业研究与公司分析",
+			        "is_illume": 100
+			      }
+		    ]
         },
         //头信息
         "headerSet":{
