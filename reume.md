@@ -1,5 +1,8 @@
-
-d:GET
+#简历接口
+###接口地址
+```
+[
+	method:GET
 	/wap/Resume/
 ]
 ```
