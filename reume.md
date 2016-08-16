@@ -13,6 +13,7 @@
     "status":0,
     "info":"",
     "result":{
+    		  //用户基本信息
             "baseInfo":{
                 "name":"诸剑飞",
                 "birth_date":"2009-04-06",
@@ -33,6 +34,7 @@
                 "politics_status_text":"其他",
                 "headimgurl":false
             },
+            //教育背景
             "education":[
                 {
                     "pkid":"280",
@@ -43,7 +45,9 @@
                     "degree":"博士"
                 }
             ],
+            //荣誉证书
             "prize":{
+            		//荣誉
                 "prize":[
                     {
                         "pkid":"5",
@@ -51,6 +55,7 @@
                         "description":"灌灌灌灌"
                     }
                 ],
+                //证书
                 "certificate":{
                     "mir_cert":[
                         {
@@ -73,6 +78,7 @@
                     ]
                 }
             },
+            //实习经历 --list
             "practice":[
                 {
                     "pkid":"192",
@@ -82,6 +88,7 @@
                     "type":"2"
                 }
             ],
+            //实践活动
             "activity":[
                 {
                     "pkid":"192",
@@ -92,8 +99,9 @@
                 }
             ]
         },
+        //头信息
         "headerSet":{
-        "title":null,
+        	  "title":null,
             "keywords":null,
             "description":null,
             "SITE_TITLE":null
